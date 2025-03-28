@@ -18,7 +18,7 @@ Desenvolvemos este projeto de Gerenciador de Escalas com o objetivo de aprimorar
 # User Story
 
 Acesse o User Story:
-  <a href="https:[//github.com/orgs/API-FATEC-2024/projects/1](https://github.com/orgs/Banco-de-Bravos/projects/2)" target="_blank">
+  <a href="https://github.com/orgs/Banco-de-Bravos/projects/2" target="_blank">
     <button style="background-color:#0078D7; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px;">
       Clique Aqui
     </button>
