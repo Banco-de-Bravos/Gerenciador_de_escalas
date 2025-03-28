@@ -38,7 +38,7 @@ Acesse o User Story:
 
 # Metodologias Utilizadas
 
-Para desenvolver o Projeto do gerenciador de escala, foi utilizado o Github tanto para a documentação como para o gerenciamento e acompanhamento de entregas, foi usado Intellij e Javafx para o desenvolvimento do código. O projeto foi realizado utilizando a Metodologia Àgil.
+Para o desenvolvimento do projeto do Gerenciador de Escalas, foi utilizado o GitHub para documentação, controle de versões e acompanhamento das entregas. A implementação do código foi realizada com o auxílio do IntelliJ IDEA, utilizando a linguagem Java em conjunto com o JavaFX para a criação da interface gráfica. Além disso, o projeto foi conduzido seguindo os princípios da Metodologia Ágil, garantindo maior organização e eficiência no processo de desenvolvimento.
 
 # Cronograma 📅
 
