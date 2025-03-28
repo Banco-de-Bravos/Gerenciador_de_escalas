@@ -15,6 +15,17 @@ Desenvolvemos este projeto de Gerenciador de Escalas com o objetivo de aprimorar
 
 # Funcionalidades do projeto 🔨
 
+- `Funcionalidade 1`: Notificação de Sobreposição
+- `Funcionalidade 2`: Notificação de Descanso Mínimo
+- `Funcionalidade 3`: Restrição dos professores.
+- `Funcionalidade 4`: Alocação Manual de Professores e Disciplinas
+- `Funcionalidade 5`: Adicionar turmas
+- `Funcionalidade 6`: Organização de Períodos
+- `Funcionalidade 7`: Definição da Carga Horária Semanal
+- `Funcionalidade 8`: Vinculação de Professores às Disciplinas
+- `Funcionalidade 9`: Definição de Intervalos entre Aulas
+- `Funcionalidade 10`: Visualização da Grade Horária Consolidada
+
 # User Story
 
 Acesse o User Story:
