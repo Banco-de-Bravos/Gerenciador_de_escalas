@@ -15,6 +15,8 @@ Desenvolvemos este projeto de Gerenciador de Escalas com o objetivo de aprimorar
 
 # Funcionalidades do projeto 🔨
 
+Para desenvolver o Projeto do gerenciador de escala, foi utilizado o Github tanto para a documentação como para o gerenciamento e acompanhamento de entregas, foi usado Intellij e Javafx para o desenvolvimento do código. O projeto foi realizado utilizando a Metodologia Àgil.
+
 # Backlog do Projeto
 
 # Metodologias Utilizadas
