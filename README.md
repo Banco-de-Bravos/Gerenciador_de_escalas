@@ -15,11 +15,19 @@ Desenvolvemos este projeto de Gerenciador de Escalas com o objetivo de aprimorar
 
 # Funcionalidades do projeto 🔨
 
-Para desenvolver o Projeto do gerenciador de escala, foi utilizado o Github tanto para a documentação como para o gerenciamento e acompanhamento de entregas, foi usado Intellij e Javafx para o desenvolvimento do código. O projeto foi realizado utilizando a Metodologia Àgil.
+# User Story
 
-# Backlog do Projeto
+Acesse o User Story:
+  <a href="https:[//github.com/orgs/API-FATEC-2024/projects/1](https://github.com/orgs/Banco-de-Bravos/projects/2)" target="_blank">
+    <button style="background-color:#0078D7; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px;">
+      Clique Aqui
+    </button>
+  </a>
+</div>
 
 # Metodologias Utilizadas
+
+Para desenvolver o Projeto do gerenciador de escala, foi utilizado o Github tanto para a documentação como para o gerenciamento e acompanhamento de entregas, foi usado Intellij e Javafx para o desenvolvimento do código. O projeto foi realizado utilizando a Metodologia Àgil.
 
 # Cronograma 📅
 
